@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am full stack developer. My other account https://github.com/HwanChinYang.
 
 <!--
 **ZenoHwanEth/ZenoHwanEth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
