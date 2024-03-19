@@ -33,8 +33,5 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZenoHwanEth&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenoHwanEth&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 </div>
